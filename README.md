@@ -12,6 +12,8 @@ if want to create a .java file, name your file host.java
 and double click on java file runner.exe
 
 if want to create a .jar file name your file host.jar
-and double click on jar files runner.exe
+and double click on jar files runner.exe.
+
+If face any issue tell me. https://github.com/Olivercode10/Java-code-runner.git.
 
 Created by Oliver.
